@@ -1,0 +1,7 @@
+stepI = "tests/StepInput";
+stepIF = "tests/StepInputFlip";
+
+response = containers.Map();
+for i = 0:2
+    response(stepI+num2str(i)
+readmatrix(stepI+0+".csv");
